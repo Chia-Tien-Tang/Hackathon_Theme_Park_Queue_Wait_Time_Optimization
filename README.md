@@ -1,4 +1,4 @@
-# Hackathon_Theme_Park_Queue_Wait_Time_Optimization
+# Optimize Theme Park Queue Wait Time
 
 Final Output: Srategic solutions based on LSTM model for attendance number prediction and Desicion Tree model for wait time of attraction prediction
 
